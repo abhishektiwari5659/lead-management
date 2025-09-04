@@ -40,7 +40,7 @@ This project was built as an **internship task** and functions as a **mini CRM f
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/lead-management.git
+git clone https://github.com/abhishektiwai5659/lead-management.git
 cd lead-management
 ```
 
