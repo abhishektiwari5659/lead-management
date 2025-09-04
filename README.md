@@ -78,16 +78,7 @@ Frontend runs at **http://localhost:5173** (or as shown in terminal)
 - **Lead Form**
 - **Edit Modal**
 - **Delete Confirmation**
-
----
-
-## 🚀 Deployment
-
-You can deploy this project using:
-- **Frontend** → Vercel / Netlify  
-- **Backend** → Render / Railway / Heroku  
-- **Database** → MongoDB Atlas  
-
+- 
 ---
 
 ## 👨‍💻 Author
